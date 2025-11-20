@@ -1,0 +1,38 @@
+TOP 10 BEST MOVIES FROM 2024 - SORTED BY VOTES (HIGHEST FIRST)
+Rank,Title,Year,Rating,Votes,Genres
+1,Dune: Part Two,2024,8.132,7187,"Science Fiction, Adventure"
+2,The Wild Robot,2024,8.318,5481,"Animation, Science Fiction, Family, Adventure, Drama"
+3,Ultraman: Rising,2024,8.193,353,"Animation, Science Fiction, Family, Action"
+4,How to Make Millions Before Grandma Dies,2024,8.131,318,Drama
+5,The Forge,2024,8.294,304,"Drama, Family"
+6,Succubus,2024,9.019,188,"Horror, Thriller"
+7,Drawing Closer,2024,8.363,172,"Romance, Drama"
+8,Young Hearts,2024,8.549,162,"Drama, Romance"
+9,The Way to the Heart,2024,9.853,143,"Drama, Comedy"
+10,Attack on Titan: THE LAST ATTACK,2024,8.752,131,"Animation, Action, Adventure, Drama"
+
+TOP 10 BEST MOVIES FROM 2024 - SORTED BY NAME (FULL TITLE)
+Rank,Title,Year,Rating,Votes,Genres
+1,Attack on Titan: THE LAST ATTACK,2024,8.752,131,"Animation, Action, Adventure, Drama"
+2,Drawing Closer,2024,8.363,172,"Romance, Drama"
+3,Dune: Part Two,2024,8.132,7187,"Science Fiction, Adventure"
+4,How to Make Millions Before Grandma Dies,2024,8.131,318,Drama
+5,Succubus,2024,9.019,188,"Horror, Thriller"
+6,The Forge,2024,8.294,304,"Drama, Family"
+7,The Way to the Heart,2024,9.853,143,"Drama, Comedy"
+8,The Wild Robot,2024,8.318,5481,"Animation, Science Fiction, Family, Adventure, Drama"
+9,Ultraman: Rising,2024,8.193,353,"Animation, Science Fiction, Family, Action"
+10,Young Hearts,2024,8.549,162,"Drama, Romance"
+
+"TOP 10 BEST MOVIES FROM 2024 - SORTED BY NAME (IGNORING A, AN, THE)"
+Rank,Title,Sortable Title,Year,Rating,Votes,Genres
+1,Attack on Titan: THE LAST ATTACK,Attack on Titan: THE LAST ATTACK,2024,8.752,131,"Animation, Action, Adventure, Drama"
+2,Drawing Closer,Drawing Closer,2024,8.363,172,"Romance, Drama"
+3,Dune: Part Two,Dune: Part Two,2024,8.132,7187,"Science Fiction, Adventure"
+4,The Forge,Forge,2024,8.294,304,"Drama, Family"
+5,How to Make Millions Before Grandma Dies,How to Make Millions Before Grandma Dies,2024,8.131,318,Drama
+6,Succubus,Succubus,2024,9.019,188,"Horror, Thriller"
+7,Ultraman: Rising,Ultraman: Rising,2024,8.193,353,"Animation, Science Fiction, Family, Action"
+8,The Way to the Heart,Way to the Heart,2024,9.853,143,"Drama, Comedy"
+9,The Wild Robot,Wild Robot,2024,8.318,5481,"Animation, Science Fiction, Family, Adventure, Drama"
+10,Young Hearts,Young Hearts,2024,8.549,162,"Drama, Romance"
